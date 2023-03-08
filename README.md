@@ -1,1 +1,1 @@
-Write a script that prints the absolute path name of the current working directory.
+Write a script that prints the absolute path name of the current working directory. I think it's a useful task that helped ,e to learn git and github very well and I want to make use of this skill to start my career as a backend developer. the most important thing is to be professionate in my career. I really am si exciited
