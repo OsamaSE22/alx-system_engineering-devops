@@ -1,2 +1,4 @@
 #!/bin/bash
-ls -1aF | sed ':a;N;$!ba;s/\n/,/g;s/,$/\n/'
+ls -1aF > filelist
+sed ':a;N;$!ba;s/\n/,/g;s/,$/\n/' filelist
+rm filelist
