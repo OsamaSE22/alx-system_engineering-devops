@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
+# this cmd print this pid of the running process
 echo "$$"
