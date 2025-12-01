@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# write a Bash script that displays lines to display processes containing the bash word
+ps -ef | grep bash
