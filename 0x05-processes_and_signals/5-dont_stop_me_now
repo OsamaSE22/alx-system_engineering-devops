@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
+# Terminate a process using Kill
 kill -15 "$(pgrep -fn 4-to*)"
