@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# this script accept the ip address as an argument and ping it
+ping "$1"
